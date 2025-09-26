@@ -5,7 +5,7 @@ A simple and elegant food ordering website built using **HTML** and **CSS**.
 ---
 
 ## 🔗 Live Demo  
-👉 [Click here to view the live demo](link)  
+👉 [Click here to view the live demo](https://snehameganathan.github.io/Reestar_simple_food_website/)  
 *(Update the link after deploying with GitHub Pages)*  
 
 ---
